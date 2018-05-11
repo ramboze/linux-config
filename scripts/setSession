@@ -1,0 +1,14 @@
+#!/bin/bash
+# My first script
+
+echo "Initialising term 1"
+gnome-terminal
+
+# grab window and set size:
+# (exression evaluation is enclosed in primes:)
+win=`xdotool getactivewindow`
+echo $win
+
+# grab and store the PID of the first terminal
+# start the second term:
+

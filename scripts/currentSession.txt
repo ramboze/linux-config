@@ -1,0 +1,15 @@
+0x02200002  0 hadron XdndCollectionWindowImp
+0x02200005  0 hadron unity-launcher
+0x02200008  0 hadron unity-panel
+0x0220000b  0 hadron unity-dash
+0x0220000c  0 hadron Hud
+0x01c0000a -1 hadron Desktop
+0x03a00007  0 hadron Head First Networking.pdf
+0x05400039  0 hadron Slack - Veredictum
+0x01c00166  0 hadron Downloads
+0x03400045  0 hadron de-adapter-core - [~/dev/de-adapter-core] - [de-adapter-core] - ~/dev/de-adapter-core/src/main/java/io/veredictum/AbaFile.java - IntelliJ IDEA 2016.2.5
+0x04e00001  0 hadron Spotify
+0x046000e7  0 hadron command line - Can no longer set terminal title in Ubuntu 16 (gnome-terminal) - Ask Ubuntu - Google Chrome
+0x03000004  0    N/A Telegram (17)
+0x0600000a  0 hadron ramboze@hadron: ~
+0x06000043  0 hadron ramboze@hadron: ~/scripts
