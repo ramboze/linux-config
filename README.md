@@ -1,6 +1,9 @@
 # linux-config
 configuration files for my linux setup
 
+# Install oh-my-zsh via
+`sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+
 # Once you have installed Oh My Zsh, ensure to map to config files into the newly created .zshrc file:
 `source ~/linux-config/zsh/zsh.config` in your ~/.zshrc file
 
